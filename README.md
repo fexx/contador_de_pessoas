@@ -1,5 +1,9 @@
 # contador_de_pessoas
 
+Primeiro app feito com flutter.
+
+![snapshot app](https://github.com/fexx/contador_de_pessoas/blob/master/images/Captura%20de%20Tela%202019-10-23%20a%CC%80s%2000.09.09.png)
+
 A new Flutter application.
 
 ## Getting Started
